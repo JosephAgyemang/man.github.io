@@ -1,0 +1,56 @@
+a:hover{
+    background:  rgb(219, 51, 51);
+    transition: ease(0.5s);
+}
+
+
+i{
+    color: rgb(102, 97, 97);
+}
+
+
+.con, h5{
+    text-align: center;
+    color: rgb(219, 51, 51); 
+    font-size: 60px;
+}
+
+
+.cod, h5{
+    text-align: center;
+    color: rgb(219, 51, 51); 
+    font-size: 60px;
+}
+.sea, h5{
+    text-align: center;
+    color: rgb(219, 51, 51); 
+    font-size: 60px;
+}
+.pon, h5{
+    text-align: center;
+    color: rgb(219, 51, 51); 
+    font-size: 60px;
+}
+.lap, h5{
+    text-align: center;
+    color: rgb(219, 51, 51); 
+    font-size: 60px;
+}
+.pan, h5{
+    text-align: center;
+    color: rgb(219, 51, 51); 
+    font-size: 60px;
+}
+
+.card-body{
+    background: rgb(218, 214, 214);
+    
+}
+
+h4{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
